@@ -1,2 +1,2 @@
 # FastAPI
-FastAPI with C++ for heavy calculations
+FastAPI with C++ for heavy polynomial calculations
